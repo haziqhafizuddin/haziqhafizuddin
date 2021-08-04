@@ -1,6 +1,6 @@
 ### Haziq 👋
 
-I'm current working as a Software Engineering at Maevi and collaborating with [Bateriku](https://www.bateriku.com/). My focus is using Ruby or Ruby on Rails to solve problem.
+I'm current working as a Software Engineering at General Assembly and collaborating with [Bateriku](https://www.bateriku.com/). My focus is using Ruby or Ruby on Rails to solve problem.
 
 I'm Extremely motivated to explore and constantly develop my skill set to grow professionally. I am confident with my ability to come up with interesting problem solving method.
 
